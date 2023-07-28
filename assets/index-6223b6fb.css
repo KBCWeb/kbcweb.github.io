@@ -1,12 +1,12 @@
 :root {
     --color-bg: hsl(0deg 0% 7%);
-    --color-blurple: hsl(235deg 86% 65%);
+    --color-blurple: rgb(170, 162, 162);
     --color-fg: hsl(0, 0%, 100%);
-    --color-focus: hsl(328, 100%, 48%);
+    --color-focus: hsl(35, 38%, 52%);
     --color-link: var(--color-primary);
     --color-mute: hsl(0deg 0% 46%);
-    --color-primary: hsl(186, 100%, 54%);
-    --color-accent: hsl(186, 79%, 54%);
+    --color-primary: rgb(27, 167, 255);
+    --color-accent: rgb(58, 197, 252);
     --color-subtitle: hsl(0deg 0% 60%);
     --font-sans: "RubikVariable", sans-serif
 }

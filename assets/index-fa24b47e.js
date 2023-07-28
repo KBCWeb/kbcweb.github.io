@@ -2899,7 +2899,7 @@ var D8 = $_((A8,bt)=>{
                     id: "discord",
                     title: "加入我们的官方玩家论坛"
                 }), y.jsxs("p", {
-                    children: ["在玩家论坛中交流玩法，反馈问题，投票玩法。", y.jsx("br", {}), "也可将您的创意或者作品上传至服务器与我们合作。"]
+                    children: ["在玩家论坛中交流玩法，反馈问题，投票玩法。", y.jsx("br", {}), "也可将您的创意或者作品上传至论坛与我们合作。"]
                 }), y.jsx("img", {
                     alt: "Screenshot of the Community Onboarding screen in our Discord server",
                     className: il.image,
@@ -3239,7 +3239,7 @@ var D8 = $_((A8,bt)=>{
                     children: [y.jsx(O3, {
                         height: "2.5rem"
                     }), y.jsxs("div", {
-                        children: ["KBCraft工作室 版权所有 © 2020-", new Date().getFullYear()]
+                        children: ["KBCraft工作室 版权所有 © 2021-", new Date().getFullYear()]
                     }), y.jsxs("div", {
                         children: [y.jsx(me, {
                             href: "https://ngmc.co/status",
