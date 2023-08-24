@@ -7281,17 +7281,7 @@ var D8 = $_((A8,bt)=>{
                         children: ["KBCraft 启动"
                         ]
                     })
-                }), y.jsxs("div", {
-                    className: Zn.footer,
-                    onClick: async()=>s("play.nethergames.org:19132"),
-                    onKeyDown: async o=>{
-                        o.key === "Enter" && await s("play.nethergames.org:19132")
-                    }
-                    ,
-                    role: "button",
-                    tabIndex: 0,
-                    children: ["| 在网易我的世界上体验", y.jsx("strong", {
-                        children: "KBCraft |"
+                })
                     })]
                 })]
             })
