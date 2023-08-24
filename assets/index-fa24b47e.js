@@ -2906,7 +2906,7 @@ var D8 = $_((A8,bt)=>{
                     draggable: !1,
                     src: "/assets/c5ed653cc6c42a88fd2c67800ee2b08a.webp"
                 }), y.jsx(R1, {
-                    href: "https://discord.gg/ng",
+                    href: "https://mc.netease.com",
                     children: "进入论坛"
                 })]
             })
@@ -3218,17 +3218,17 @@ var D8 = $_((A8,bt)=>{
                         }), y.jsxs("ul", {
                             children: [y.jsx("li", {
                                 children: y.jsx(me, {
-                                    href: "https://ngmc.co/terms",
+                                    href: "https://space.bilibili.com/3537115419773393/",
                                     children: "B站"
                                 })
                             }), y.jsx("li", {
                                 children: y.jsx(me, {
-                                    href: "https://ngmc.co/privacy",
+                                    href: "https://qm.qq.com/q/PFBbIofpW6",
                                     children: "Q群"
                                 })
                             }), y.jsx("li", {
                                 children: y.jsx(me, {
-                                    href: "https://ngmc.co/refund",
+                                    href: "mailto:kbcraft@foxmail.com",
                                     children: "邮箱"
                                 })
                             })]
