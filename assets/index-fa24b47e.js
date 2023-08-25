@@ -2935,15 +2935,15 @@ var D8 = $_((A8,bt)=>{
                 }), y.jsxs("div", {
                     className: io.row,
                     children: [y.jsx(ol, {
-                        description: "您制作的优秀作品想要快速推广，与KBCraft合作，将您的作品推荐给我们，我们将把您的优秀作品放入游戏中，让玩家游玩优秀的小游戏！",
-                        href: "mailto:biz@kbcraft.fun",
+                        description: "您制作的优秀作品想要被玩家吸引？与KBCraft合作，我们将把您的优秀作品放入游戏中，推荐给玩家游玩您优秀的作品！",
+                        href: "mailto:hi@kbcraft.fun",
                         title: "作品合作"
                     }), y.jsx(ol, {
-                        description: "成为KBCraft的新媒体，推广服务器，免费获得大厅飞行、媒体称号、游戏内测、即时反馈、粉丝房间等诸多功能，共同进步，成就双赢！",
+                        description: "成为KBCraft的新媒体，推广服务器，免费获得大厅飞行、媒体称号、游戏内测、即时反馈、粉丝房间等诸多功能，共同进步！",
                         href: "https://media.kbcraft.fun",
                         title: "媒体认证"
                     }), y.jsx(ol, {
-                        description: "好的建议和想法或者游戏有bug要反馈，不妨告诉我们，我们将采纳您的建议和反馈，贡献多者可以获得免费的贡献称号和限时的VIP！",
+                        description: "您有好的建议或者游戏有bug要反馈？不妨告诉我们，我们将采纳您的建议和反馈，优秀贡献者可以获得贡献称号和VIP！",
                         href: "mailto:suggest@kbcraft.fun",
                         title: "集思广益"
                     })]
@@ -3245,11 +3245,11 @@ var D8 = $_((A8,bt)=>{
                             href: "https://about.kbcraft.fun",
                             children: "关于我们"
                         }), " ·", " ", y.jsx(me, {
-                            href: "https://media.kbcraft.fun",
+                            href: "https://mc.netease.com",
                             children: "官方论坛"
                         }), " ·", " ", y.jsx(me, {
-                            href: "https://about.kbcraft.fun",
-                            children: "特别鸣谢"
+                            href: "https://media.kbcraft.fun",
+                            children: "媒体认证"
                         })]
                     })]
                 })]
