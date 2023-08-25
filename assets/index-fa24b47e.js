@@ -3474,13 +3474,13 @@ var D8 = $_((A8,bt)=>{
                 }), y.jsxs("div", {
                     className: Jn.links,
                     children: [y.jsx(me, {
-                        href: "https://discord.gg/ng",
+                        href: "https://mc.netease.com",
                         children: "论坛"
                     }), y.jsx(me, {
-                        href: "https://ngmc.co/support",
+                        href: "https://about.kbcraft.fun",
                         children: "联系"
                     }), y.jsx(me, {
-                        href: "https://ngmc.co/request",
+                        href: "mailto:suggest@kbcraft.fun",
                         children: "反馈"
                     })]
                 })]
@@ -7193,7 +7193,7 @@ var D8 = $_((A8,bt)=>{
         , [e]),
         n
     }
-    const Wd = ["起床战争", "空岛战争", "战桥", "UHC", "跑酷", "心跳水立方", "TNT跑酷", "天坑乱斗", "我的吃鸡", "KB:GO", "密室杀手", "竞技场", "小游戏派对", "猎人游戏", "死亡互换", "Bingo挑战", "你说我做", "速建大师"]
+    const Wd = ["起床战争", "空岛战争", "战桥", "UHC", "跑酷", "TNT跑酷", "天坑乱斗", "我的吃鸡", "KB:GO", "密室杀手", "竞技场", "小游戏派对", "猎人游戏", "死亡互换", "Bingo挑战", "你说我做", "速建大师"]
       , qd = 170;
     function SS(e) {
         return 1 + --e * e * e * e * e
@@ -7290,8 +7290,8 @@ var D8 = $_((A8,bt)=>{
                     ,
                     role: "button",
                     tabIndex: 0,
-                    children: ["| 在网易我的世界上体验", y.jsx("strong", {
-                        children: "KBCraft |"
+                    children: ["*在网易我的世界上体验", y.jsx("strong", {
+                        children: "KBCraft"
                     })]
                 })]
             })
