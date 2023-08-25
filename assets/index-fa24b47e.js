@@ -2935,17 +2935,17 @@ var D8 = $_((A8,bt)=>{
                 }), y.jsxs("div", {
                     className: io.row,
                     children: [y.jsx(ol, {
-                        description: "Contact staff about appeals, applications, reports, billing issues, bug bounties, and rollback requests.",
-                        href: "https://ngmc.co/request",
-                        title: "Request"
+                        description: "您制作的优秀作品想要快速推广，与KBCraft合作，将您的作品推荐给我们，我们将把您的优秀作品放入游戏中，让玩家游玩优秀的小游戏！",
+                        href: "mailto:biz@kbcraft.fun",
+                        title: "作品合作"
                     }), y.jsx(ol, {
-                        description: "Unlock pet companions, beautiful particle effects, special kits, the ability to fly in the lobby, and more plots.",
-                        href: "https://ngmc.co/store",
-                        title: "Store"
+                        description: "成为KBCraft的新媒体，推广服务器，免费获得大厅飞行、媒体称号、游戏内测、即时反馈、粉丝房间等诸多功能，共同进步，成就双赢！",
+                        href: "https://media.kbcraft.fun",
+                        title: "媒体认证"
                     }), y.jsx(ol, {
-                        description: "Are we a great server? Vote now! You could win a free rank upgrade if you become the month's top voter.",
-                        href: "https://ngmc.co/vote",
-                        title: "Vote"
+                        description: "好的建议和想法或者游戏有bug要反馈，不妨告诉我们，我们将采纳您的建议和反馈，贡献多者可以获得免费的贡献称号和限时的VIP！",
+                        href: "mailto:suggest@kbcraft.fun",
+                        title: "集思广益"
                     })]
                 })]
             })
@@ -3196,13 +3196,13 @@ var D8 = $_((A8,bt)=>{
                         }), y.jsxs("ul", {
                             children: [y.jsx("li", {
                                 children: y.jsx(me, {
-                                    href: "https://ngmc.co/support",
+                                    href: "mailto:suggest@kbcraft.fun",
                                     children: "集思广益"
                                 })
                             }), y.jsx("li", {
                                 children: y.jsx(me, {
-                                    href: "https://ngmc.co/request",
-                                    children: "作弊举报"
+                                    href: "mailto:suggest@kbcraft.fun?subject=申诉：｛游戏名称｝",
+                                    children: "误封申诉"
                                 })
                             }), y.jsx("li", {
                                 children: y.jsx(me, {
@@ -3228,7 +3228,7 @@ var D8 = $_((A8,bt)=>{
                                 })
                             }), y.jsx("li", {
                                 children: y.jsx(me, {
-                                    href: "mailto:kbcraft@foxmail.com",
+                                    href: "mailto:hi@kbcraft.fun",
                                     children: "邮箱"
                                 })
                             })]
@@ -3242,13 +3242,13 @@ var D8 = $_((A8,bt)=>{
                         children: ["KBCraft工作室 版权所有 © 2021-", new Date().getFullYear()]
                     }), y.jsxs("div", {
                         children: [y.jsx(me, {
-                            href: "https://ngmc.co/status",
+                            href: "https://about.kbcraft.fun",
                             children: "关于我们"
                         }), " ·", " ", y.jsx(me, {
-                            href: "https://ngmc.co/media-kit",
+                            href: "https://media.kbcraft.fun",
                             children: "官方论坛"
                         }), " ·", " ", y.jsx(me, {
-                            href: "https://ngmc.co/jobs",
+                            href: "https://about.kbcraft.fun",
                             children: "特别鸣谢"
                         })]
                     })]
