@@ -3174,17 +3174,17 @@ var D8 = $_((A8,bt)=>{
                         }), y.jsxs("ul", {
                             children: [y.jsx("li", {
                                 children: y.jsx(me, {
-                                    href: "https://instagram.com/NetherGamesMC",
+                                    href: "https://game.kbcraft.fun/rank",
                                     children: "游戏排名"
                                 })
                             }), y.jsx("li", {
                                 children: y.jsx(me, {
-                                    href: "https://facebook.com/NetherGamesMC",
+                                    href: "https://game.kbcraft.fun/skins",
                                     children: "服装饰品"
                                 })
                             }), y.jsx("li", {
                                 children: y.jsx(me, {
-                                    href: "https://twitter.com/NetherGamesMC",
+                                    href: "https://game.kbcraft.fun/title",
                                     children: "头衔称号"
                                 })
                             })]
@@ -3206,7 +3206,7 @@ var D8 = $_((A8,bt)=>{
                                 })
                             }), y.jsx("li", {
                                 children: y.jsx(me, {
-                                    href: "https://ngmc.co/security",
+                                    href: "https://guide.kbcraft.fun",
                                     children: "玩家守则"
                                 })
                             })]
@@ -7276,7 +7276,7 @@ var D8 = $_((A8,bt)=>{
                 }), y.jsx("div", {
                     className: Zn.buttonWrapper,
                     children: y.jsxs(R1, {
-                        href: "http://www.kbcraft.fun:8008",
+                        href: "https://mc.163.com",
                         isExternal: !1,
                         children: ["KBCraft 启动"
                         ]
@@ -7290,7 +7290,7 @@ var D8 = $_((A8,bt)=>{
                     ,
                     role: "button",
                     tabIndex: 0,
-                    children: ["*在网易我的世界上体验", y.jsx("strong", {
+                    children: ["在网易我的世界上体验", y.jsx("strong", {
                         children: "KBCraft"
                     })]
                 })]
