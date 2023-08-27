@@ -3272,7 +3272,7 @@ var D8 = $_((A8,bt)=>{
     function $3(e) {
         return y.jsxs("svg", {
             viewBox: "0 0 635.353 132.292",
-            xmlns: "http://www.w3.org/2000/svg",
+            xmlns: "https://img1.imgtp.com/2023/08/27/1QqPeFhB.svg",
             ...e,
             children: [y.jsxs("defs", {
                 children: [y.jsx("path", {
